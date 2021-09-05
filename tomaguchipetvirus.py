@@ -1,4 +1,8 @@
-import time
+try:
+    import os
+    import time
+except:
+    print("error")
 import os
 happy = int(3)
 food = int(100)
