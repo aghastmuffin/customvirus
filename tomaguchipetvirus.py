@@ -5,8 +5,13 @@ except:
     print("error")
 import os
 happy = int(100)
-food = int(100)
+food = int(1000)
 sleep = int(100)
 water = int(100)
 while True:
-    if food < (100):
+    food = (food - 1)
+    if food < (750):
+        happy = (3)
+        print("'                '\n \\___________________/
+        
+        
