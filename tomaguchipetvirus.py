@@ -12,6 +12,6 @@ while True:
     food = (food - 1)
     if food < (750):
         happy = (3)
-        print("'                '\n \\___________________/ ")
+        print("   '                '\n \\___________________/ ")
         
         
