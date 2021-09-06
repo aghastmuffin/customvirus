@@ -4,9 +4,9 @@ try:
 except:
     print("error")
 import os
-happy = 3
-food = 100
-sleep = 100
-water = 100
+happy = int(100)
+food = int(100)
+sleep = int(100)
+water = int(100)
 while True:
     if food < (100):
